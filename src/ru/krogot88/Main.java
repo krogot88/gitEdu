@@ -5,5 +5,7 @@ public class Main {
         System.out.println("Commit 3");
 
         System.out.println("lp1 commit 3");
+
+        System.out.println("lp1 commit 4");
     }
 }
